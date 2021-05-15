@@ -1,4 +1,3 @@
-Don't ask me, here's a funny cow:
 ```        
           .=     ,        =.
   _  _   /'/    )\,/,/(_   \ \
